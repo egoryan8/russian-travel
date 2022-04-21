@@ -1,0 +1,34 @@
+.photo-grid {
+    padding: 92px 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(auto-fit, 1fr);
+    margin: 0 auto;
+    width: 93%;
+    overflow: hidden;
+    gap: 16px;
+}
+
+@media  screen and (max-width:1024px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+
+}
+
+@media  screen and (max-width:768px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+
+}
+
+@media  screen and (max-width:321px) {
+  .photo-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+
+}

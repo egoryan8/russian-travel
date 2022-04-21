@@ -5,3 +5,15 @@
   font-weight: 900;
   margin: 0 0 40px 0;
 }
+
+@media screen and (max-width:767px) {
+  .intro__title {
+    font-size: 45px;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .intro__title {
+    font-size: 32px;
+  }
+}
