@@ -36,3 +36,15 @@
 @import url(../blocks/places/__text-wrapper/places__text-wrapper.css);
 @import url(../blocks/places/__url-heading/places__url-heading.css);
 @import url(../blocks/places/__website/places__website.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__bg-image/cover__bg-image.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__title/cover__title.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
