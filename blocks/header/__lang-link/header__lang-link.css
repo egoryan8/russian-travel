@@ -1,9 +1,18 @@
 .header__lang-link {
-  margin: 18px 0 6px;
+  margin: 18px 18px 6px 0;
   font-size: 24px;
   line-height: 117%;
   text-decoration: none;
   color: inherit;
+  transition: 1.1s;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
+}
+
+.header__lang-link:hover {
+  opacity: .4;
 }
 
 @media screen and (max-width: 767px) {
@@ -13,3 +22,4 @@
     max-height: 20px;
   }
 }
+

@@ -2,5 +2,11 @@
   max-width: 1280px;
   color: white;
   margin: 0 auto;
-  font-family: 'inter';
+  font-family: 'Inter', sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+   text-rendering: optimizeLegibility;
 }

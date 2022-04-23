@@ -1,0 +1,13 @@
+.footer__link-wrapper {
+    margin-right: 18px;
+}
+
+.footer__link-wrapper:last-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 750px) {
+    .footer__link-wrapper {
+        margin: 0 0 32px 0;
+    }
+}
