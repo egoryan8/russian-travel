@@ -5,3 +5,10 @@
   padding: 0 3.5% 24px;
   min-height: 18px;
 }
+
+@media screen and (max-width: 750px) {
+  .footer {
+    flex-direction: column;
+  }
+  
+}

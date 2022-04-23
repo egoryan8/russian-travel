@@ -5,13 +5,14 @@
   font-weight: 900;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .places__title {
     font-size: 42px;
+    line-height: 110%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places__title {
     max-width: 93%;
     padding: 0 3.5%;

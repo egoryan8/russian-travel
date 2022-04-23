@@ -4,7 +4,26 @@
   font-weight: 900;
   z-index: 50;
   max-width: 560px;
-  min-height: 152px;
   text-align: center;
   margin: 245px 0 0;
+}
+
+@media screen and (max-width:1279px) {
+  .cover__title {
+    margin-top: 195px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__title {
+    margin-top: 115px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__title {
+    font-size: 32px;
+    line-height: 109%;
+    margin-top: 33px;
+  }
 }
