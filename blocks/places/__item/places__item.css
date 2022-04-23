@@ -21,6 +21,7 @@
   .places__item {
     grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);
     grid-column-gap: 28px;
+    margin-bottom: 73px;
   }
 }
 

@@ -5,3 +5,11 @@
   text-decoration: none;
   color: inherit;
 }
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    margin: 14px 0 8px;
+    font-size: 18px;
+    max-height: 20px;
+  }
+}

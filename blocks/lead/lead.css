@@ -6,10 +6,22 @@
   align-items: center;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1279px) {
   .lead {
     width: 93%;
     padding: 56px 3.5% 0;
+  }
+}
 
+@media screen and (max-width:1023px) {
+  .lead {
+    width: 100%;
+    padding: 56px 0 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    padding-top: 48px;
   }
 }

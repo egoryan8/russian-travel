@@ -4,3 +4,10 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 767px) {
+  .header {
+    width: calc(100% - 32px);
+    padding: 16px 16px 0;
+  }
+}
