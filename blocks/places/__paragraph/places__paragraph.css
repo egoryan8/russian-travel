@@ -16,7 +16,7 @@
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places__paragraph {
     max-width: calc(100% - 32px);
     padding: 0 16px;
