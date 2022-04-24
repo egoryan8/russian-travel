@@ -17,6 +17,12 @@
   }
 }
 
+@media screen and (width: 1024px) {
+  .places__item {
+    grid-template-columns: 440px 1fr;
+  }
+}
+
 @media screen and (max-width: 1023px){
   .places__item {
     grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);

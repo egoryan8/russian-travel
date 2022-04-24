@@ -8,8 +8,8 @@
 
 @media screen and (max-width:1279px) {
   .lead {
-    width: 93%;
-    padding: 56px 3.5% 0;
+    width: calc(100% - 96px);
+    padding: 56px 48px 0;
   }
 }
 
