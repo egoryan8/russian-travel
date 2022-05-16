@@ -6,4 +6,9 @@
   background-repeat: no-repeat;
   width: 41px;
   height: 41px;
+  transition: .8s ease;
+}
+
+.video__play-btn:hover {
+  transform: scale(1.2);
 }
