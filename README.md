@@ -1,4 +1,4 @@
-# **_Проект: Путешествие по России_**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Проект:+Russian+Travel)](https://git.io/typing-svg)
 
 ### **Обзор**
 1. Описание работы
