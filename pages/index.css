@@ -58,3 +58,10 @@
 @import url(../blocks/video/__item/_kamchatka/video__item_kamchatka.css);
 @import url(../blocks/video/__item/_observatory/video__item_observatory.css);
 @import url(../blocks/video/__text-wrapper/video__text-wrapper.css);
+
+@import url(../blocks/photographs/photographs.css);
+@import url(../blocks/photographs/__list-item/photographs__list-item.css);
+@import url(../blocks/photographs/__list/photographs__list.css);
+@import url(../blocks/photographs/__name/photographs__name.css);
+@import url(../blocks/photographs/__photo/photographs__photo.css);
+@import url(../blocks/photographs/__quote/photographs__quote.css);

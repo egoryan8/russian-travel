@@ -1,0 +1,26 @@
+.photographs__quote {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+@media screen and (max-width: 900px) {
+  .photographs__quote {
+    max-width: 382px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photographs__quote {
+    max-width: 343px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .photographs__quote {
+    max-width: 288px;
+  }
+}

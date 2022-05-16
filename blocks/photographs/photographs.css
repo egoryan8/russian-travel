@@ -1,0 +1,18 @@
+.photographs {
+  padding: 102px 48px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 1023px) {
+  .photographs {
+    padding: 102px 54px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photographs {
+    padding: 64px 16px 0;
+  }
+}
