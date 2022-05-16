@@ -44,3 +44,17 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link-wrapper/footer__link-wrapper.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/video/__container/video__container.css);
+@import url(../blocks/video/__director/video__director.css);
+@import url(../blocks/video/__duration/video__duration.css);
+@import url(../blocks/video/__item/video__item.css);
+@import url(../blocks/video/__play-btn/video__play-btn.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__item/_kamchatka/video__item_kamchatka.css);
+@import url(../blocks/video/__item/_observatory/video__item_observatory.css);
+@import url(../blocks/video/__text-wrapper/video__text-wrapper.css);

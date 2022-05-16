@@ -1,0 +1,9 @@
+.video__play-btn {
+  z-index: 10;
+  border: 0;
+  background-color: transparent;
+  background-image: url(../../../images/video/__icon_play.svg);
+  background-repeat: no-repeat;
+  width: 41px;
+  height: 41px;
+}

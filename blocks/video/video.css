@@ -1,0 +1,12 @@
+.video {
+  padding: 102px 48px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 1023px) {
+  .video {
+    padding-top: 95px;
+  }
+}
