@@ -39,3 +39,32 @@
     padding: 23px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .video__item {
+    min-height: 323px;
+    width: 100%;
+    margin-bottom: 8px;
+  }
+  .video__item:last-child {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .video__item {
+    min-height: 288px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .video__item {
+    min-height: 200px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .video__item {
+    min-height: 192px;
+  }
+}
