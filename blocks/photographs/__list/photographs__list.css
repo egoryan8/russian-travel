@@ -14,3 +14,9 @@
     gap: 48px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .photographs__list {
+    margin-top: 42px;
+  }
+}
